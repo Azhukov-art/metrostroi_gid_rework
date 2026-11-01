@@ -4,13 +4,13 @@
 
 <img width="1266" height="492" alt="image" src="https://github.com/user-attachments/assets/8ec16644-14f4-47e4-ad3c-9d3ec4ed7ad3" />
 
-Игровая часть используемая на сервере в Garry's Mod: https://github.com/DmitryAtrashkow/gid_connector
+Игровая часть используемая на сервере в Garry's Mod: https://github.com/Azhukov-art/gid_conector_rework
 
 ## Установка
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/Doogls/metrostroi_gid.git
+git clone https://github.com/Doogls/metrostroi_gid_rework.git
 cd metrostroi_gid
 ```
 
@@ -59,7 +59,7 @@ node server.js
 Этот проект лицензирован под Apache License 2.0. Подробности см. в файле [LICENSE](LICENSE).
 
 ## Авторы
-
+Ж. Артём Е. (https://github.com/Azhukov-art) - Реворк обоих аддонов, визуалов.
 Давыденок Алексей Алексеевич (https://github.com/Doogls) — Визуальная часть, рендер и основа серверной части
 
 Атрашков Дмитрий Олегович (https://github.com/DmitryAtrashkow) — Обработчик данных с игрового сервера и базы данных, структура базы данных
