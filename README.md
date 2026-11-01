@@ -1,4 +1,4 @@
-# ПЕРЕДЕЛАНО ГИД — График Исполненного Движения для Metrostroi Subway Simulator
+# ПЕРЕДЕЛАНО | ГИД — График Исполненного Движения для Metrostroi Subway Simulator
 Оригинальный аддон: https://github.com/Doogls/metrostroi_gid
 
 Система для визуального отображения движения поездов по линии для игрового режима Metrostroi Subway Simulator (Garry's Mod).
