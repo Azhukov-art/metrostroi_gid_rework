@@ -4,7 +4,7 @@
 
 <img width="1266" height="492" alt="image" src="https://github.com/user-attachments/assets/8ec16644-14f4-47e4-ad3c-9d3ec4ed7ad3" />
 
-Игровая часть используемая на сервере в Garry's Mod: https://github.com/DmitryAtrashkow/gid_connector
+Игровая часть используемая на сервере в Garry's Mod: https://github.com/Azhukov-art/gid_conector_rework
 
 ## Установка
 
